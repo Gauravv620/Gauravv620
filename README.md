@@ -38,7 +38,7 @@ Building intelligent systems, scalable applications, and AI-powered solutions th
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajput620&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravv620&theme=tokyonight&hide_border=true"/>
 </p>
 
 
